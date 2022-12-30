@@ -1,16 +1,20 @@
-# author_registration_app
+# Author Registration App
 
-A new Flutter project.
+## Cloud Firestore | Firebase
 
-## Getting Started
+### Features
 
-This project is a starting point for a Flutter application.
+<ul>
+<li>Add, Update and Delete Author Records</li>
+<li>Share Detail Image</li>
+<li>Copy Author Record in Clipboard</li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
+## App UI Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+                    
+<img width="300" height="600" src="assets/images/screenshorts/Screenshot_2.jpg">
+<img width="300" align="left" height="600" src="assets/images/screenshorts/Screenshot_1.jpg">         
+<img width="300" align="left" height="600" src="assets/images/screenshorts/Screenshot_3.jpg">                             
+<img width="300"  height="600" src="assets/images/screenshorts/Screenshot_4.jpg">
+<img width="300" align="left" height="600" src="assets/images/screenshorts/Screenshot_5.jpg">   
